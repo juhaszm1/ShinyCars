@@ -1,3 +1,3 @@
 # ogu-project
 
-Yo wassup
+Készítette Juhász Márk és Székely Dávid 13/B
